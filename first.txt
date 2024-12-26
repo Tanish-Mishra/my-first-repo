@@ -2,4 +2,4 @@ I am Learning Git and Github.
 I am learning git and github through Github Desktop.
 
 I have created my new branch.
-My Branch Name is Tanish.
+My Branch name is nothing.
